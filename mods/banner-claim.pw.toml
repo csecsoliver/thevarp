@@ -1,0 +1,13 @@
+name = "Banner Claim"
+filename = "banner-claim-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BkY7KXM1/versions/lESr4n8U/banner-claim-1.6.jar"
+hash-format = "sha512"
+hash = "9825d104bc997312acef16c654c180452d45693cc7531eaf75f39c4e6fb3825decb62dbd7838ce8c53086d9c8496aabf10f03f49d0cb8086acc1d2cfe8787d01"
+
+[update]
+[update.modrinth]
+mod-id = "BkY7KXM1"
+version = "lESr4n8U"

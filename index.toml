@@ -1149,6 +1149,11 @@ hash = "d6cbc77adbaf1f1db293e4f6aea79652008edb12594e98647e6dc984162a1f99"
 metafile = true
 
 [[files]]
+file = "mods/banner-claim.pw.toml"
+hash = "c03cdcb74af08840ed8ecb74b146eef5b2af302d869c97c7f6268477176f5200"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
 metafile = true
