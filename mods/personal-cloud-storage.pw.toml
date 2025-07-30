@@ -1,0 +1,13 @@
+name = "Personal Cloud Storage"
+filename = "personalcloudstorage-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc88f6037ec235886890e2307b6b9e6e68e1637"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6371628
+project-id = 1183138

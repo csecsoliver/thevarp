@@ -1,0 +1,5 @@
+{
+  "initialRows": 3,
+  "maxPages": 1000,
+  "modifyStorageOfOthers": true
+}

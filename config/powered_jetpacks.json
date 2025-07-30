@@ -1,0 +1,17 @@
+{
+  "basicJetpackMaxEnergy": 10000,
+  "basicJetpackInputEnergy": 128,
+  "basicJetpackVerticalSpeed": 1.0,
+  "basicJetpackHorizontalSpeed": 0.0,
+  "basicJetpackEnergyCost": 2,
+  "advancedJetpackMaxEnergy": 100000,
+  "advancedJetpackInputEnergy": 2048,
+  "advancedJetpackVerticalSpeed": 1.5,
+  "advancedJetpackHorizontalSpeed": 0.05,
+  "advancedJetpackEnergyCost": 16,
+  "industrialJetpackMaxEnergy": 1000000,
+  "industrialJetpackInputEnergy": 8192,
+  "industrialJetpackVerticalSpeed": 2.0,
+  "industrialJetpackHorizontalSpeed": 0.1,
+  "industrialJetpackEnergyCost": 64
+}

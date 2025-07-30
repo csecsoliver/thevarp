@@ -1,0 +1,10 @@
+{
+  "blasterMaxCapacity": 100000,
+  "blasterEnergyInput": 2048,
+  "blasterEnergyCost": 256,
+  "blasterDamage": 2.0,
+  "laserRifleMaxCapacity": 1000000,
+  "laserRifleEnergyInput": 8192,
+  "laserRifleEnergyCost": 2048,
+  "laserRifleDamage": 4.0
+}

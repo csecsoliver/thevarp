@@ -1,0 +1,12 @@
+name = "The Varp 1.0.0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df0791cca30e3598663fab6dc09bd1c5ffa319d77fb5493a9831260d1efea017"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

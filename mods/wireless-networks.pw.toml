@@ -1,0 +1,13 @@
+name = "Wireless Networks"
+filename = "wirelessnetworks-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "460a5a995feba2fdbcceb7ef7eb282d48e7d48ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4610810
+project-id = 461316
