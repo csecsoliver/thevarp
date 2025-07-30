@@ -1309,11 +1309,6 @@ hash = "8f6edf8b6066bc65daaeecb7fc995fa6b4e014f92d53c10260963570d9e0243b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "17ce7e84b5d57f4794774be5828ba35206f877bbe66424e2bcbcc9f6a909fc73"
-metafile = true
-
-[[files]]
 file = "mods/expanded-bow-enchanting.pw.toml"
 hash = "ab8702979143cb89ef551f819cfdf5a547c9e4c6cce5dbed36094ceb73e36be6"
 metafile = true
@@ -1523,11 +1518,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
-metafile = true
-
-[[files]]
-file = "mods/nuit-interop.pw.toml"
-hash = "766c3a11d5e7e2ada4efac897891282bc85bc1febf2672f7d7b4b9d7bf2a6ac1"
 metafile = true
 
 [[files]]
