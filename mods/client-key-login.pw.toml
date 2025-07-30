@@ -1,0 +1,13 @@
+name = "client key login"
+filename = "client-key-login-0.4.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/USfhdKm3/versions/R4JUKlR3/client-key-login-0.4.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "75db971225e42e585481439bc9b6021d590ba38bcef69fdcbca3c9c8b980ae7ae9dfe87c7fbba6f6747d8ecd33bfd987e2cf253e954e9fd7e3060d1be8c58c3c"
+
+[update]
+[update.modrinth]
+mod-id = "USfhdKm3"
+version = "R4JUKlR3"
