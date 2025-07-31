@@ -1388,6 +1388,11 @@ hash = "2b7a2942fe10d4eb2832be655cc1b9e8eb3ac7b9ecb2b7fff32a235b9c4f1a97"
 metafile = true
 
 [[files]]
+file = "mods/gate-of-babylon.pw.toml"
+hash = "578cc44e5efaed68b60463703fc7f72674f0a7fc100410dd3278e1ac36f9f644"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "6dd9f0425d33c2c8b51a47c3e9f8f42d5339beff98e21911ef0797335ce63f30"
 metafile = true
