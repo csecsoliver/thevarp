@@ -1251,6 +1251,11 @@ hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "978a739eb54343effd082d0d5f63b51edd48f7a2e9cb7da15a4a63fc981f3d6f"
+metafile = true
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "340872403325a1d29ce72be5f3ca289e2c973777c226421849a7fc3cbe6b023d"
 metafile = true
