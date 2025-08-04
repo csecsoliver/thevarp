@@ -1246,6 +1246,11 @@ hash = "8459128658c0148ba1b89d87b4c86bd62f236c73cff860090eba0b08e49ae9ce"
 metafile = true
 
 [[files]]
+file = "mods/coxinha-utilities.pw.toml"
+hash = "1664203cb78560d36355b4d696bb505ab1508c3a44b625dc3c60e348b9d45bff"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
@@ -1445,6 +1450,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap-1.20.1-5.10.3-fabric.jar"
 hash = "5d41c052b5a9d772360e279398d9ca053c785bdbc963f911381ed1210b8d0296"
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "b52bdae22d6a73fc91ffb72da3b992a286f54f6180ed33b8e6864fc04d001eb3"
+metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
