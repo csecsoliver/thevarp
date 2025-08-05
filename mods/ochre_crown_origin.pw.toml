@@ -1,0 +1,13 @@
+name = "Origins: Ochre Crown"
+filename = "OC-1.20.1-V1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHzJ6LfG/versions/g0Pnn4LM/OC-1.20.1-V1.2.zip"
+hash-format = "sha512"
+hash = "6c0fae5419dd593f453929b1c7f08ed9b861e0dcef6d827ba5cd23545d4e01d9873c6abddadfbe35b5a9c09938c7f09d24a158b03d772c89da0e3a5a65abdf27"
+
+[update]
+[update.modrinth]
+mod-id = "bHzJ6LfG"
+version = "g0Pnn4LM"

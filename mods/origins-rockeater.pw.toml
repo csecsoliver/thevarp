@@ -1,0 +1,13 @@
+name = "Origins: Rockeater"
+filename = "origins-rockeater-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWPukpKF/versions/praJX0q4/origins-rockeater-1.1.jar"
+hash-format = "sha512"
+hash = "2793128244e45584cfeaf555874a3b23840342f44ba273daa8e311ef6861a140eab64ce1accc007964563d4c8e98b5bbf4c34f00139024e593bb74def8fca6d0"
+
+[update]
+[update.modrinth]
+mod-id = "CWPukpKF"
+version = "praJX0q4"

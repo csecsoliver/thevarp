@@ -1,0 +1,13 @@
+name = "Origins: Spore Lizard"
+filename = "origins-spore-lizard-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7O0Z7GUG/versions/dpI45UUI/origins-spore-lizard-1.1.jar"
+hash-format = "sha512"
+hash = "a0b63a2e89e3614c0915ed245fde74ab38e576ec9653416db60601c3d3e08995cd1b703ab635c8a50f90dd54c0638ee8a825b072d30f7a837444d68cbe48d8ae"
+
+[update]
+[update.modrinth]
+mod-id = "7O0Z7GUG"
+version = "dpI45UUI"

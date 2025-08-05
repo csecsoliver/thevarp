@@ -1,0 +1,13 @@
+name = "Origins: Architect Origin"
+filename = "mystic-architect-origin-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AyAuzsyA/versions/12v9W91C/mystic-architect-origin-1.0.1.jar"
+hash-format = "sha512"
+hash = "d667ca7245e9171f262f1fe8660a72e7ce2e5fe92d1bde94cc13a80dd6dd06cbb7481052e110214af85766c4e92fd76330e464610c644525abd526f2af41769b"
+
+[update]
+[update.modrinth]
+mod-id = "AyAuzsyA"
+version = "12v9W91C"

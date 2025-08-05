@@ -1,0 +1,13 @@
+name = "Origins: Spine"
+filename = "SPINE-1.20.1-V1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a5mOUB6s/versions/lT1xGrAC/SPINE-1.20.1-V1.1.zip"
+hash-format = "sha512"
+hash = "cd001af948c1fb100df5756f130e45eab839f84588c850348358c7107875b269882640d3cffab72aee060947602ba9e35ab4501c99a1e384b59f435d1d565432"
+
+[update]
+[update.modrinth]
+mod-id = "a5mOUB6s"
+version = "lT1xGrAC"

@@ -1,0 +1,13 @@
+name = "Origins: The Worm"
+filename = "worm_v0.0.1-r.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cMUox4aC/versions/GdheNqEM/worm_v0.0.1-r.jar"
+hash-format = "sha512"
+hash = "a26616e01599b807fd2bcf922c8ae4e09ab6e88d06e8e073c745c644665a1b3c542af3c2ca262bd4e280656317f285a4124e927651dab04570f06d01119f083d"
+
+[update]
+[update.modrinth]
+mod-id = "cMUox4aC"
+version = "GdheNqEM"

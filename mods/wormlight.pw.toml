@@ -1,0 +1,13 @@
+name = "Origins: Wormlight"
+filename = "origins-wormlight-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNRPuolX/versions/pKPWpe1I/origins-wormlight-1.jar"
+hash-format = "sha512"
+hash = "5caa73906fa8e1d6ab1d973580a5c6c64771fb8c23affd804df77d44494edbd300872590764382a424718cce97d924229d8f9272b94a62ab1f0c2df8ed58f47c"
+
+[update]
+[update.modrinth]
+mod-id = "iNRPuolX"
+version = "pKPWpe1I"

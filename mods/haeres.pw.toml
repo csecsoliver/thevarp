@@ -1,0 +1,13 @@
+name = "Origins: Haeres"
+filename = "haeres_v0.0.1-r.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hkCPrgz/versions/cwNzmvJY/haeres_v0.0.1-r.jar"
+hash-format = "sha512"
+hash = "6ffc356cf21772ea29b422f8cbfcbb425aae2ee367abc858fc8b01c3dec031d9fe24c43beabfac8a35e1eaa5b3f480381803e22c4aa39e4aca91a543b540b08e"
+
+[update]
+[update.modrinth]
+mod-id = "9hkCPrgz"
+version = "cwNzmvJY"

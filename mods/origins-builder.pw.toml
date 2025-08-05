@@ -1,0 +1,13 @@
+name = "Origins Builder"
+filename = "origins_builder-0.1-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHjEtQVb/versions/pCUpdBgp/origins_builder-0.1-dev.jar"
+hash-format = "sha512"
+hash = "fc8982a3b9f86ab12f1cd09c501002e7ab3a4d4bbb9a4ab1627bad97a0e5ac808b1fece1a29459412924203fb9a4906952ac2c2dbb37aae0b9c4005410c29ba8"
+
+[update]
+[update.modrinth]
+mod-id = "oHjEtQVb"
+version = "pCUpdBgp"

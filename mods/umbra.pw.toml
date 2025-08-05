@@ -1,0 +1,13 @@
+name = "Origins: Umbra"
+filename = "umbra-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xw9i4hBM/versions/vjuoULu6/umbra-1.1.jar"
+hash-format = "sha512"
+hash = "3c8d2183a6f4c257118f4cdd6c87fb59bcec4799ca6afb1391806cf10864d0a1df75455313186433d833d569900a6bb9bf110971db41de45cdae407957bc2a7f"
+
+[update]
+[update.modrinth]
+mod-id = "xw9i4hBM"
+version = "vjuoULu6"

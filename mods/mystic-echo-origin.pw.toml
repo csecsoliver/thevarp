@@ -1,0 +1,13 @@
+name = "Origins: Echo Origin"
+filename = "mystic-echo-origin-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RbFlCJlM/versions/2TcYAL4q/mystic-echo-origin-1.0.2.jar"
+hash-format = "sha512"
+hash = "d3cc4404b0f44a12b53c59592790b4b8f9c47912e985a339c925368a26fbf0e55f52f9be650836c8888c8324fcab1ce097e459f4fcab9810ed29a19ffb5822e4"
+
+[update]
+[update.modrinth]
+mod-id = "RbFlCJlM"
+version = "2TcYAL4q"
