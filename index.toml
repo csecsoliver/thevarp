@@ -1111,11 +1111,6 @@ hash = "320e80999788a7c3b40ea0a8d0b14251b04f29baf71d217b2dcb432c1964d6dd"
 metafile = true
 
 [[files]]
-file = "mods/altorigingui.pw.toml"
-hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
 metafile = true
@@ -1123,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
-metafile = true
-
-[[files]]
-file = "mods/apugli.pw.toml"
-hash = "71ee2c3e42554bd666679a6ec17305213bba097a864014ba03c83fdd77262555"
 metafile = true
 
 [[files]]
@@ -1335,16 +1325,6 @@ hash = "8f6edf8b6066bc65daaeecb7fc995fa6b4e014f92d53c10260963570d9e0243b"
 metafile = true
 
 [[files]]
-file = "mods/envisioner.pw.toml"
-hash = "d5a85bf8aea515cf8e08c95df9c843ec246a3c111d9b4deac8ce666879b8b9ef"
-metafile = true
-
-[[files]]
-file = "mods/ethergeist.pw.toml"
-hash = "7023aa86d191b22e4aaa7342c8d750fa91f903f29a7d3c0b0c3170e31e1908bf"
-metafile = true
-
-[[files]]
 file = "mods/expanded-bow-enchanting.pw.toml"
 hash = "ab8702979143cb89ef551f819cfdf5a547c9e4c6cce5dbed36094ceb73e36be6"
 metafile = true
@@ -1357,11 +1337,6 @@ metafile = true
 [[files]]
 file = "mods/expandedstorage-10.3.0-beta.5+1.20.1-fabric.jar"
 hash = "5733b72b006c62090235ed83f6f34930ded2d399f5234437b13106bf48cc1540"
-
-[[files]]
-file = "mods/extra-origins.pw.toml"
-hash = "1022783093409686e3f0387fe8a43982a0d61226878193654efead8563009d96"
-metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -1414,11 +1389,6 @@ hash = "f0e7773218c4987d6f77c5f934e39848ca7af39d39f953f3d8f5a2c6d3efbbea"
 metafile = true
 
 [[files]]
-file = "mods/function-macro-backport.pw.toml"
-hash = "f99f38f1c294d4c1de2a45e5578c741bfbbc3aef21efd4abce92f66067f4653f"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2b7a2942fe10d4eb2832be655cc1b9e8eb3ac7b9ecb2b7fff32a235b9c4f1a97"
 metafile = true
@@ -1426,11 +1396,6 @@ metafile = true
 [[files]]
 file = "mods/gate-of-babylon.pw.toml"
 hash = "578cc44e5efaed68b60463703fc7f72674f0a7fc100410dd3278e1ac36f9f644"
-metafile = true
-
-[[files]]
-file = "mods/haeres.pw.toml"
-hash = "5ac7cc04104202e936146b91049cb6a87f48840e523b5617597f14e9bcb1b996"
 metafile = true
 
 [[files]]
@@ -1547,11 +1512,6 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
-file = "mods/mole-origin.pw.toml"
-hash = "a8f092269564c7d57de4fc4881504c141a0f65dc098ff1e70f129a0e615e1f5e"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "cf9ae5744c15746a004a660dcdb120e8b81a70b56e3d55ce4d1781d494a2fc58"
 metafile = true
@@ -1564,16 +1524,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
-metafile = true
-
-[[files]]
-file = "mods/mystic-architect-origin.pw.toml"
-hash = "37ef20a8bb87fee7acd649c71f72f6c10bbf60c743e738739e90f1c6e27154f1"
-metafile = true
-
-[[files]]
-file = "mods/mystic-echo-origin.pw.toml"
-hash = "4e7059ce2ba10f0815c1c178a0fb8656608bf3da24cab973394dba4bbb31a4b9"
 metafile = true
 
 [[files]]
@@ -1602,72 +1552,12 @@ hash = "9635fb8b85ed7dbbf87913d5615c49a8162d4608f24d0c5de8a06939e6b93383"
 metafile = true
 
 [[files]]
-file = "mods/ochre_crown_origin.pw.toml"
-hash = "b491c5af032fbcdcf5d8081c9e2e72488a008e3a22657c4ccf47a53cff1311f1"
-metafile = true
-
-[[files]]
 file = "mods/optigui-2.3.0-beta.6.1-modrinth+1.20.jar"
 hash = "49dd0cb83f00b19e53106ee32b49a1666a0c816e4145e2c37d6d83df6c5e8ef7"
 
 [[files]]
-file = "mods/origins-builder.pw.toml"
-hash = "eb5b5ddbb964fdfec03f0c182655af599ef0ab1a535ef34d047ca59dea426af0"
-metafile = true
-
-[[files]]
-file = "mods/origins-classes.pw.toml"
-hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
-metafile = true
-
-[[files]]
-file = "mods/origins-dietary-delights.pw.toml"
-hash = "d3b7b753f2061ef0fcdb70254ba8c6671467de9ed6fab64c01b36b69af726eec"
-metafile = true
-
-[[files]]
-file = "mods/origins-enderxolotl.pw.toml"
-hash = "259f1e4c0217ca6268d1e7389b2ebb94670db2c39175885aeed7d0ef3f9916ff"
-metafile = true
-
-[[files]]
-file = "mods/origins-mirrored-one.pw.toml"
-hash = "539dd3f748e401a6f243e120ef787bb907e653062a46b43fe747b104f258a0ea"
-metafile = true
-
-[[files]]
-file = "mods/origins-plus-plus.pw.toml"
-hash = "f065531ba831351afe0da0adb6ecd6034c6d303728b24f6cec3805c90f795fa1"
-metafile = true
-
-[[files]]
-file = "mods/origins-rockeater.pw.toml"
-hash = "2c71f45894a73c3737e40ac755a5d86604123311d3af9c175bf222c2dd2f665c"
-metafile = true
-
-[[files]]
-file = "mods/origins-spore-lizard.pw.toml"
-hash = "1a444f624cb4b55e274b0d7a9bc19827ddc0700b2cf0df13073784e0d20009ff"
-metafile = true
-
-[[files]]
-file = "mods/origins-sun-block.pw.toml"
-hash = "340cd445076c28fa296d17cb9a7381660a7ac3e327fbda095a6cc2abb18129ce"
-metafile = true
-
-[[files]]
-file = "mods/origins-umbrellas.pw.toml"
-hash = "7ffba2d20153f6ad79284e1f70e8f5cf1768e86ce071874687fa8088b83666e7"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
-hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
-metafile = true
-
-[[files]]
-file = "mods/originstweaks.pw.toml"
-hash = "8bca078649b779f1222da78e07bf43bbf517a9fb9d8db7b60ddf171e85bd2024"
+hash = "c4c328f1f55efec94860cc2a5927ef1077f995748e6199a44f161681d567b141"
 metafile = true
 
 [[files]]
@@ -1678,11 +1568,6 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "06e36bd2c7909f3eff22b5ddbf107f0575365f2a50a14e00f497fc7e2cc95f3a"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
@@ -1766,11 +1651,6 @@ hash = "4c582b79928ada0afe2a38b0ed60a144543e52e867fdb1541619b5f9c9355341"
 metafile = true
 
 [[files]]
-file = "mods/spine-origin.pw.toml"
-hash = "d5b309c1ecc174408501b50735b29ee4df331da51d536ec986c1f8a246094e7b"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
@@ -1800,11 +1680,6 @@ hash = "dc14e907041c643f6c53f9ff100b0a6f32039744302e063ba23884580b437a24"
 metafile = true
 
 [[files]]
-file = "mods/the-worm.pw.toml"
-hash = "3e1fb296f59e4ad5c08df604b8afdfec7aafa17612c55c12b34be3812964755c"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
@@ -1824,11 +1699,6 @@ file = "mods/turtlechargingstation-1.7.0-1.20.1-fabric.jar"
 hash = "572613b9ab6fa307e30e4a440922be6475dd429d521540ad5ce59f44a1af97de"
 
 [[files]]
-file = "mods/umbra.pw.toml"
-hash = "2fd72fa302b66d4b2b7fd6186d040cde63fa3657a7a8208857fde64d81f7ad1f"
-metafile = true
-
-[[files]]
 file = "mods/waystones-fabric-1.20.1-14.1.16.jar"
 hash = "8884cc285850092e1fb714d025e5800dfdc41c032c0fc449aaed6b907505f737"
 
@@ -1840,11 +1710,6 @@ metafile = true
 [[files]]
 file = "mods/wireless-networks.pw.toml"
 hash = "9cbd3ee403267d31ed20cfae3f6a100fa004e016a43c38c9529128f595994a6d"
-metafile = true
-
-[[files]]
-file = "mods/wormlight.pw.toml"
-hash = "d16d35cfc1f5798802112ab4fb8b8945a8e655324ad5cae941925f3ecb3652ab"
 metafile = true
 
 [[files]]
