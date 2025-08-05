@@ -1111,6 +1111,11 @@ hash = "320e80999788a7c3b40ea0a8d0b14251b04f29baf71d217b2dcb432c1964d6dd"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
 metafile = true
@@ -1118,6 +1123,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
+file = "mods/apugli.pw.toml"
+hash = "71ee2c3e42554bd666679a6ec17305213bba097a864014ba03c83fdd77262555"
 metafile = true
 
 [[files]]
@@ -1389,6 +1399,11 @@ hash = "f0e7773218c4987d6f77c5f934e39848ca7af39d39f953f3d8f5a2c6d3efbbea"
 metafile = true
 
 [[files]]
+file = "mods/function-macro-backport.pw.toml"
+hash = "f99f38f1c294d4c1de2a45e5578c741bfbbc3aef21efd4abce92f66067f4653f"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2b7a2942fe10d4eb2832be655cc1b9e8eb3ac7b9ecb2b7fff32a235b9c4f1a97"
 metafile = true
@@ -1527,6 +1542,16 @@ hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
 metafile = true
 
 [[files]]
+file = "mods/mystic-architect-origin.pw.toml"
+hash = "37ef20a8bb87fee7acd649c71f72f6c10bbf60c743e738739e90f1c6e27154f1"
+metafile = true
+
+[[files]]
+file = "mods/mystic-echo-origin.pw.toml"
+hash = "4e7059ce2ba10f0815c1c178a0fb8656608bf3da24cab973394dba4bbb31a4b9"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
@@ -1552,12 +1577,47 @@ hash = "9635fb8b85ed7dbbf87913d5615c49a8162d4608f24d0c5de8a06939e6b93383"
 metafile = true
 
 [[files]]
+file = "mods/ochre_crown_origin.pw.toml"
+hash = "b491c5af032fbcdcf5d8081c9e2e72488a008e3a22657c4ccf47a53cff1311f1"
+metafile = true
+
+[[files]]
 file = "mods/optigui-2.3.0-beta.6.1-modrinth+1.20.jar"
 hash = "49dd0cb83f00b19e53106ee32b49a1666a0c816e4145e2c37d6d83df6c5e8ef7"
 
 [[files]]
+file = "mods/origins-builder.pw.toml"
+hash = "eb5b5ddbb964fdfec03f0c182655af599ef0ab1a535ef34d047ca59dea426af0"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
+metafile = true
+
+[[files]]
+file = "mods/origins-dietary-delights.pw.toml"
+hash = "d3b7b753f2061ef0fcdb70254ba8c6671467de9ed6fab64c01b36b69af726eec"
+metafile = true
+
+[[files]]
+file = "mods/origins-enderxolotl.pw.toml"
+hash = "259f1e4c0217ca6268d1e7389b2ebb94670db2c39175885aeed7d0ef3f9916ff"
+metafile = true
+
+[[files]]
+file = "mods/origins-mirrored-one.pw.toml"
+hash = "539dd3f748e401a6f243e120ef787bb907e653062a46b43fe747b104f258a0ea"
+metafile = true
+
+[[files]]
+file = "mods/origins-umbrellas.pw.toml"
+hash = "7ffba2d20153f6ad79284e1f70e8f5cf1768e86ce071874687fa8088b83666e7"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
-hash = "c4c328f1f55efec94860cc2a5927ef1077f995748e6199a44f161681d567b141"
+hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]
@@ -1648,6 +1708,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4c582b79928ada0afe2a38b0ed60a144543e52e867fdb1541619b5f9c9355341"
+metafile = true
+
+[[files]]
+file = "mods/spine-origin.pw.toml"
+hash = "d5b309c1ecc174408501b50735b29ee4df331da51d536ec986c1f8a246094e7b"
 metafile = true
 
 [[files]]
