@@ -1200,6 +1200,10 @@ hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked-1.20.1-fabric-1.116.1.jar"
+hash = "08b8deb0bcc1f626da6b865256d1b640923d6acc58d59f47cd4994ef52a9b718"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
 metafile = true
