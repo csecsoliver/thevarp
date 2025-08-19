@@ -461,198 +461,6 @@ file = "config/personalcloudstorage-server.json"
 hash = "db2d3c1e07b9ef8d8ea4451cfe11bed9687e2d687fc868cd403540d1c1a51ff5"
 
 [[files]]
-file = "config/plasmovoice/.crowdin/de_de.json"
-hash = "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/es_es.json"
-hash = "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/fr_fr.json"
-hash = "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/he_il.json"
-hash = "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ja_jp.json"
-hash = "782da7cabc4b1877fdf97b786c5b4b6d93811bc6bf1a29284b135e62e1078d5f"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ko_kr.json"
-hash = "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pl_pl.json"
-hash = "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/pt_br.json"
-hash = "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/ru_ru.json"
-hash = "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/timestamp"
-hash = "bc56d28d9b71c4e5b9944fe9f3f8c9ff0ee8c81f804a690d9e51a06bee5b3677"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/tt_ru.json"
-hash = "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/uk_ua.json"
-hash = "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_cn.json"
-hash = "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c"
-
-[[files]]
-file = "config/plasmovoice/.crowdin/zh_tw.json"
-hash = "2800e6b4b1c3a9bb5179f1aeeb0093ff4ce6e5d751930285ccdf20067cb5e92b"
-
-[[files]]
-file = "config/plasmovoice/client.toml"
-hash = "d2f0797eb93145431dc3dc65f07eeffd5f46ee3924f4d5fe513f4f644edbfe73"
-
-[[files]]
-file = "config/plasmovoice/meta_cache.json"
-hash = "9df7a6806466ea917fffbb34e381ca19599419cf2d2755d83fdfd9892274ab7c"
-
-[[files]]
-file = "config/plasmovoice/server/config.toml"
-hash = "62171f6024695d9f21d7d370636956fc2d2f257f948e6c1e74462cac8d5bfde6"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/de_de.toml"
-hash = "29fab82d4a3280d63e9df7a0f02473b0098f3b5312979ea61aaf8f4b187eaa19"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/es_es.toml"
-hash = "f434de429907bd810d018ba0db4584eb63f3a1dfbd8fa0d374ca8342416a0017"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
-hash = "59931182a23c8691011180014ab5cdf8d676a64d129b55175a8521e24d67ffb7"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/he_il.toml"
-hash = "fa6fded3bbb26f21f9e7ef521370c6d4ce368529cbe927eee741467e75e04817"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/ja_jp.toml"
-hash = "1f83c01943a55663177bdb991a7b1bcef23450f2996467f70f51ca4b8c72dd0b"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
-hash = "df06537abcd1e218d48357beec47441cc43c3dcf2c318bfd22b921244d81fa0d"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
-hash = "06196ef2e05c14f360d561e08ac5ebf9ef89272161b6ce382c312bece82196af"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/pt_br.toml"
-hash = "a3931d10e96140e381350850744c702cc9d7c1a4aac264dd996e2a21a8144aee"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
-hash = "c0c45c94a604050a478cbb63a77ab1167122a5b52f53564da1165243cfacf643"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/timestamp"
-hash = "87cf8e56effc110dcdf0ea42b10f6ea1e2941ebfb7afa1ac4e38f6447f048ce6"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
-hash = "912de4e7a4cc3224eccb6eb5e72314c3ce0b71c7b90ba0465c14bd716202e943"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
-hash = "4381a87ef626fa46045c8322e8431d902eb8bb9ff4f4fbbbc546e65a17975844"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
-hash = "1f9cafc386ca07036f9dc4cb84175fe0d222111db44a74dd9043981dbe02a102"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
-hash = "503c383b6921681dbc7c2896cea946ded969d4d62ab2f439bd7ffb33f1d24310"
-
-[[files]]
-file = "config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
-hash = "cb5ad0855fe3bf0a298de8d02e6e91d76c9c4e3a21ab206297c71b745eb1cfc7"
-
-[[files]]
-file = "config/plasmovoice/server/languages/de_de.toml"
-hash = "9fc73031a7de8225670bf43c35b545be21c665bc9fb501b7005e4633b3ab0a88"
-
-[[files]]
-file = "config/plasmovoice/server/languages/en_us.toml"
-hash = "a3ffc8d6709904df88d81d4fddbf7c54185faf1595519a13288f78be8d287ced"
-
-[[files]]
-file = "config/plasmovoice/server/languages/es_es.toml"
-hash = "2cfd2e058a09fbd0fc2d6bb7d5eda62f1f322b103be3d33a835e39dea463c1b3"
-
-[[files]]
-file = "config/plasmovoice/server/languages/fr_fr.toml"
-hash = "e8974fccbb16c616728967bf1e45eedfdfb849b12a6f1b91b398d1da3ffea988"
-
-[[files]]
-file = "config/plasmovoice/server/languages/he_il.toml"
-hash = "c499b39e46b90cba9bd875b15f119d8948a6ec45782e6482f03ffae1bdbb5856"
-
-[[files]]
-file = "config/plasmovoice/server/languages/ja_jp.toml"
-hash = "664fb25e829713ca1e18c53ebcb8a4f88daf991c3fc8037e433463c1b9005513"
-
-[[files]]
-file = "config/plasmovoice/server/languages/ko_kr.toml"
-hash = "68bb146f89fe3c6ba23c688e51cdb7f5415294230966ff185afebe90d8b422ac"
-
-[[files]]
-file = "config/plasmovoice/server/languages/pl_pl.toml"
-hash = "904c5cffcfa2a5f142e397154447b4b138b5c50516cd2858412c4f254177f733"
-
-[[files]]
-file = "config/plasmovoice/server/languages/pt_br.toml"
-hash = "d7849d3e40e584131d615b67d2c3abaaf63ed0d77dc7646818fc4341cf83eefb"
-
-[[files]]
-file = "config/plasmovoice/server/languages/ru_ru.toml"
-hash = "433c2ac6f698e6e5ab8011db239c242b23edc00248c1f0bd5ea74e5fd34d5506"
-
-[[files]]
-file = "config/plasmovoice/server/languages/tr_tr.toml"
-hash = "c4b471933343c6733af78328d05ac0ce71cccd60cf9091546147480030a2ba2f"
-
-[[files]]
-file = "config/plasmovoice/server/languages/tt_ru.toml"
-hash = "c6f05167951ab06e56aa8d881782e7892cdd3f5eed5d9823dea5610cba4e7b76"
-
-[[files]]
-file = "config/plasmovoice/server/languages/uk_ua.toml"
-hash = "532b19f1f11994022cd7a51cd655a24fdae99fa91c31b1cd5c80f1546abac55a"
-
-[[files]]
-file = "config/plasmovoice/server/languages/zh_cn.toml"
-hash = "53f32195245cbe77c14678e8f7110922dd19bcbb90cfd5c5e9742696da1a6220"
-
-[[files]]
-file = "config/plasmovoice/server/languages/zh_tw.toml"
-hash = "3bd383cba134a2baffe26afcf93866259e2b4b1338887cf77495efbcbf0d78d5"
-
-[[files]]
-file = "config/plasmovoice/server/voice_mutes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/polymorph-integrations.toml"
 hash = "6a3118fc97f6e1dea7fcd46afb06b98c1c12ca9a642edf90fbf6cf6fd0bc64d6"
 
@@ -671,170 +479,6 @@ hash = "dce20589d1e44c98d8d486a384a25abaafbd6de884acb6badc67849dc212fff5"
 [[files]]
 file = "config/puzzle.json"
 hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
-
-[[files]]
-file = "config/pv-addon-broadcast/config.toml"
-hash = "cb48c5436af5576fba55bd00eb32ec1a2fdfe90695bce7a93b171e43286bd8de"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/es_es.toml"
-hash = "e5c5fdbb7304e6837e7c06d187afea6920437f83d24209fc332c6f860ee06c35"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/he_il.toml"
-hash = "3b93b6a7a888e6aa134cca27e8d337d6d09ddfa6aca22b919284bb4ef041dfe8"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml"
-hash = "57f41c36623456cd25d3163963659d338ae08f28d18af3838869e063a4278a8e"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml"
-hash = "fef3ac5449f2eaf19d9c4c72391b60235e3ddfd96f3e7499947115831a037332"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml"
-hash = "3ab6c89dd1b0f0742a10195778d5109ef967674046e03d96e3a866fbf57b124a"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml"
-hash = "cc5e98b74eb3701d6ee8d94f65478dbf214c3e585edd5d5131b5ecd4f0e997c8"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/timestamp"
-hash = "bd12df8be8eb1d3ea8d9fdb7f024be814256416c672f0550fbd9cb179d9c18ff"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml"
-hash = "3dffd9424013f20a7742002f0b6e08a212c7af1b7f3c9280d08e08046d420f28"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml"
-hash = "dedf1f390cbd5d1540a9090a2e46f6dcc1af5a4bccd1094468d80f1221dcebe8"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml"
-hash = "0b31568920565723193e0fe0ff4eb1606176b085e8e147e609ac50a0da6e6a99"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/en_us.toml"
-hash = "c71444565af45eca1daadee9c0b7bf4430679fdae817f7fdc89781b10b0a66f2"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/es_es.toml"
-hash = "14aaf34834f92e1507832dbb83b3ec556a1ba38f14f4843901393fbb9b2d3528"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/he_il.toml"
-hash = "1db4a96c6f580aa3f3ce9849833e7c653c51dbb63baefca0bef56236c2875a12"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/ko_kr.toml"
-hash = "02d9bd9b0fd9757a5ca5f8fd5478e753ca9300649f989f155d98d85a8dc78198"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/pl_pl.toml"
-hash = "e0a54b1450e3f71a31c011b73ef9fd4ab518c2e622b5fc9c7d2c728a542c5f80"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/pt_br.toml"
-hash = "f46ec3d47b5bc69b686ab72bf6b83eaff21e7d9713f988e403acd5de243b940c"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/ru_ru.toml"
-hash = "990f9eeee98a6aa65dd5fcecedd6afc1cdea45070d673d7064a865cbd09253c5"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/tt_ru.toml"
-hash = "9c994fa7a3d1ccf8f067dd84efb0a41dfb66b03f8632457b86c38d365bfb8e0a"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/zh_cn.toml"
-hash = "67e25144247626fd5c2f44656e3c6ea81d8bb2a3747d2ce6cef41178054dee1d"
-
-[[files]]
-file = "config/pv-addon-broadcast/languages/zh_tw.toml"
-hash = "b09cd0f1b7e6a0fdc3337f11f7e54b19543f80b3cd0b6982ed8794cb0dbde250"
-
-[[files]]
-file = "config/pv-addon-groups/groups.json"
-hash = "9bd77dc308443e3f532c43beb71a5f7c94a6f9a8ecea7159308431f2b7e806f8"
-
-[[files]]
-file = "config/pv-addon-groups/groups.toml"
-hash = "fe1f708f7cc7154b10ad60eb38ed205ad7cff5e17f47c45ac06a12d4b9e4ca31"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/es_es.toml"
-hash = "37df092137357c05f1244961b3f55f6f1a7d10e17fcdba98628714e6d3429aab"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/ko_kr.toml"
-hash = "30aa8bed8d8c6c2a7c94d920820ea8aa32662921e01a530e9c8682db497641e2"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/pl_pl.toml"
-hash = "b7fc7e0b16e6a04cc21980285834e6f3f81b2c0ebd177c0ca2c8d7beda1ed6ff"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/pt_br.toml"
-hash = "50f0c350638d28c93f512adeb8510e67a9dc91b235d106fa0141bb6d7aee95fb"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/ru_ru.toml"
-hash = "af10e5323d9d46bfb1b791a036f633c692dd2581a1bafd9b3851410d50c1b9d2"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/timestamp"
-hash = "bd12df8be8eb1d3ea8d9fdb7f024be814256416c672f0550fbd9cb179d9c18ff"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/tt_ru.toml"
-hash = "f34e15df5f80bead59ed1b90f9b09a5c8f9f185c4a7cbaa42acc0b2a37d93569"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/zh_cn.toml"
-hash = "f7487f66cce2b94dc976ef760ff16c675882f095885e98862de1323e22090cff"
-
-[[files]]
-file = "config/pv-addon-groups/languages/.crowdin/zh_tw.toml"
-hash = "79fe5df663324312cb2216f4f7022690ac2c3dfda745c9e4057cb604d50e5451"
-
-[[files]]
-file = "config/pv-addon-groups/languages/en_us.toml"
-hash = "e3c3530bdbb38e892ccc9e174a783031aa0ffec06a46022afe4dc19629d0d214"
-
-[[files]]
-file = "config/pv-addon-groups/languages/es_es.toml"
-hash = "a55c28a450547673064584206f19fa7831f2936c38ad9bc15e7640088d7356fd"
-
-[[files]]
-file = "config/pv-addon-groups/languages/ko_kr.toml"
-hash = "c9a1d924511d059ca86607837fe97d5541a9d7ddc297bd10276209609c35c262"
-
-[[files]]
-file = "config/pv-addon-groups/languages/pl_pl.toml"
-hash = "8303ebe8913ed51403cb453798610995ba02b2ed5037ea5695e9f9790ae156ab"
-
-[[files]]
-file = "config/pv-addon-groups/languages/pt_br.toml"
-hash = "6f01e73d33226bb00cb2751a7157897b4c6d2ee1e69caa5c182f4fa7070ccc2f"
-
-[[files]]
-file = "config/pv-addon-groups/languages/ru_ru.toml"
-hash = "19afa9c4ca311c56a95dddb7991ec452cd556c2aef37dc058d057d23d4c98696"
-
-[[files]]
-file = "config/pv-addon-groups/languages/tt_ru.toml"
-hash = "d93e3102efa343b00ae3c6476299c060209779ac4f9ddae4fd5da0f31c943d0c"
-
-[[files]]
-file = "config/pv-addon-groups/languages/zh_cn.toml"
-hash = "5373724238bda6f50b7d0ccfaa266e81634dce998cb0765774546d099ba414af"
-
-[[files]]
-file = "config/pv-addon-groups/languages/zh_tw.toml"
-hash = "69364e2a4a53d687bc595458ef4a0469ada6072a1f424039157ea286615ef999"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
@@ -1419,11 +1063,6 @@ hash = "02971e2494980c33169117597d01a119d3d619e62648d0e7b0b6b79f59c04059"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "f0e7773218c4987d6f77c5f934e39848ca7af39d39f953f3d8f5a2c6d3efbbea"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
@@ -1717,11 +1356,6 @@ hash = "faee18ed23432a512b74dc24682de84bc5237de80856d4a901bd8415d182d2a1"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "cbb1dcd2f4e17e86512652bccccfd1828cb70d35350baebc9df34cba87b9569b"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "91a34cb72ff22aaf1e12d1741782b73af9ad179255d9156b7c2c7a5f878ba1ce"
 metafile = true
@@ -1750,18 +1384,6 @@ hash = "acbbcb68d71a2a6210b7ba2ec0f871e776ded43c1a74aa080b9a6fdbc74ed33f"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-broadcast-1.1.0.jar"
-hash = "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08"
-
-[[files]]
-file = "mods/pv-addon-groups-1.1.0.jar"
-hash = "80aa276ecd3ea6949e810cce05a9c9e742973b7850146c202db4a12397dd7f46"
-
-[[files]]
-file = "mods/pv-addon-soundphysics-1.1.1.jar"
-hash = "4f0ba717e32d873d1cfce8c2e1dc59ac92600347247c0f139368d4a7521143f2"
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
@@ -1774,6 +1396,11 @@ metafile = true
 [[files]]
 file = "mods/silk-unofficial.pw.toml"
 hash = "a59c6f90e6389857db64714528d4e10c0b1b4021fc121cf092dbcddfc0b7e207"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "15a2a2b64ce2acc534793268a84f76e1f46cbccd409633879b1655afeb0b85c7"
 metafile = true
 
 [[files]]
