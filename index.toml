@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".index.toml.kate-swp"
-hash = "ea96a26b1920b77518445a892f7ef754f196b626f589e00f90e8b3a338620877"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
