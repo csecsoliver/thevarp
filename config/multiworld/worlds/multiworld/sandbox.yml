@@ -1,0 +1,4 @@
+namespace: multiworld
+path: sandbox
+environment: NORMAL
+seed: -298444909

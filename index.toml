@@ -49,12 +49,20 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/apugli.json"
+hash = "df76206ed6a3da84e11af71f17b9450d3b3c76507ac4da9b10ccf65fe212fed7"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "ecb0343c1c64d40c77213093dbfc47fec7d9f1086a09a83f1607d0d808703d29"
 
 [[files]]
 file = "config/balm-common.toml"
 hash = "ecb0343c1c64d40c77213093dbfc47fec7d9f1086a09a83f1607d0d808703d29"
+
+[[files]]
+file = "config/banner-claim.json"
+hash = "2b4b687385c4696d61dba46b8e668a432c1cf6e1794e78216da5fe72dfe68f65"
 
 [[files]]
 file = "config/betterdeserttemples-fabric-1_20.toml"
@@ -101,6 +109,54 @@ file = "config/betterwitchhuts-fabric-1_20.toml"
 hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "634ce9629d6f6c12df5b0514c5398893bdf31ad446e0c611e3f5ce37c2ce9fe8"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "409b2e36d7affc494c7e6f8b8831ccce3197f7d4228653a83562d45dc2e7dab6"
+
+[[files]]
+file = "config/bluemap/maps/world_haeres_purgatory.conf"
+hash = "50154b780a177ab064e9254d1627ce1dbea9f421924469bc57d3f5fe7f6afae7"
+
+[[files]]
+file = "config/bluemap/maps/world_mtrat_void_storage.conf"
+hash = "ac4eee2a1b02d322bbf97d082b0fdecfb7650079e16bdb7e91d275e91545f106"
+
+[[files]]
+file = "config/bluemap/maps/world_mtrat_void_storage_nether.conf"
+hash = "5b2c5cb8672488bc1f0d69c9940fefd0978baa96292e2abc282867a28fce8b0b"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "86b39802cb08e40945a2008692486652175c65cc66059f84ad01cf90b95c9867"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
 
@@ -141,8 +197,16 @@ file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "3e11aa381edcf2633c3dd448f850513be074b6d86a3c5aaf5ead528862e77929"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/client-key-login.properties"
+hash = "6c1e87c3bea01f37bfd85b8179648ebadc76dcc6eae88bc3c108b30b4fe4236c"
 
 [[files]]
 file = "config/collective.json5"
@@ -165,12 +229,32 @@ file = "config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
 
 [[files]]
+file = "config/coxinhautilities.json"
+hash = "303d0eea6e0daebe56bb92467bdf86414c12f271c821b948637de1108f1e7e72"
+
+[[files]]
 file = "config/debugify-descriptions.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/debugify.json"
-hash = "d047d7c6024ce3c82f299ab5f391ad0e3fa89c33bd3e3c2489dcd8d3d39ac159"
+hash = "42de41b005430520dd078b8ca48a65fd76c020f65ba53bbf217014f5c662ff1d"
+
+[[files]]
+file = "config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
+
+[[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
+
+[[files]]
+file = "config/diggusmaximus/grouping.json5"
+hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
 file = "config/digitalitems-common.toml"
@@ -377,6 +461,10 @@ file = "config/journeymap-server.json"
 hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
 
 [[files]]
+file = "config/kibe.json"
+hash = "9b26591160272a48d3043584ce130fa993ca69b72927d180b6277a732c954866"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
@@ -429,6 +517,14 @@ file = "config/moreculling.toml"
 hash = "4d10f59f5b59d2f780b88d31652416cf1730594b0136f9794cce860d8ed4daf2"
 
 [[files]]
+file = "config/multiworld/worlds/minecraft/overworld.yml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/multiworld/worlds/multiworld/sandbox.yml"
+hash = "9f73b7709ed9b32ff87199e64fc821ee875316f708010eb37de8b96d5d185377"
+
+[[files]]
 file = "config/naturescompass.json"
 hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
 
@@ -437,8 +533,16 @@ file = "config/noindium.json"
 hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
 
 [[files]]
+file = "config/opac-bluemap.json5"
+hash = "12a5df79ae06f9037b5e3020ecd8de5362de7de7f2d63ec9a8217f5b36c66954"
+
+[[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "be6174e8d03edd53bc1c4739f1b0562eb5599cfe1043eac0f1717cdde8a43782"
+
+[[files]]
 file = "config/origins_server.json"
-hash = "b26e9f64a41731a9154ac4488becb0269b62da504e4d3f0819d19787ac62c089"
+hash = "1b30b7e726cb94936030b16beaba748da8356e216b411e4be1fcd4af437ffb08"
 
 [[files]]
 file = "config/pal.properties"
@@ -451,6 +555,10 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 [[files]]
 file = "config/paucal.json5"
 hash = "fd8dbcd3db695f130b78e5eb763e33669c2b7215edb9d95f55429307cc7b8905"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "aeedffcc3371dc848b752079aab6f3c2a0014a01815b5f2b6bad72dd4bec4914"
 
 [[files]]
 file = "config/personalcloudstorage-client.json"
@@ -466,7 +574,7 @@ hash = "6a3118fc97f6e1dea7fcd46afb06b98c1c12ca9a642edf90fbf6cf6fd0bc64d6"
 
 [[files]]
 file = "config/power_config.json5"
-hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+hash = "27cd70051136835dd5b3cc5f2a1684abf0703526d5e1c8ff964a7f02d35944aa"
 
 [[files]]
 file = "config/power_strike.json"
@@ -566,7 +674,7 @@ hash = "999e6b48e6c9953bbba750ddac02ad61caeeb9b5ca21fbea7c7115bac4b69be3"
 
 [[files]]
 file = "config/textile_backup.json5"
-hash = "030a83dbdb1909ac4e4d0b5773092ec39ced48378696981a70f2f47e45b14f39"
+hash = "4f02f7c128de442b96315ee90850128108839c1a50e957697abe4a84d0ce1fe0"
 
 [[files]]
 file = "config/toms_storage.json"
@@ -579,6 +687,14 @@ hash = "a761353d549863780adcadbadde95bc3e2c97d8727ef1af25ee1f94c6933d795"
 [[files]]
 file = "config/turtlechargingstation-common.properties"
 hash = "51dcac0eb9b42743345bafec9ba123500d7e54dd8b9ad7ef8a060930cd656d4d"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "41d5b070095bed1f14eb8dd9111158a802cd140d06bda0142e9d771598c8b547"
 
 [[files]]
 file = "config/waila/blacklist.json5"
@@ -606,7 +722,7 @@ hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
 
 [[files]]
 file = "config/waila/plugin_toggle.json5"
-hash = "b7da08fcf2cd9ff302fc3bcd13ace8230be376b1605c9a9a58a078dc00dcf618"
+hash = "d036c519cde47c9252fe6888b5649f36de30bca05ee975b04facf8ab6c5bac8b"
 
 [[files]]
 file = "config/waila/waila.json5"
@@ -1583,3 +1699,7 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "e7b507a68695c29399c8b0367a5287b5489d65883a5255d0857638c6f770c4b7"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "eef32c65de860a7a61146fdf648b6047c9b661097252c9aab86c149738a7565f"
