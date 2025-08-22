@@ -1593,11 +1593,6 @@ file = "mods/turtlechargingstation-1.7.0-1.20.1-fabric.jar"
 hash = "572613b9ab6fa307e30e4a440922be6475dd429d521540ad5ce59f44a1af97de"
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
-metafile = true
-
-[[files]]
 file = "mods/umbra.pw.toml"
 hash = "2fd72fa302b66d4b2b7fd6186d040cde63fa3657a7a8208857fde64d81f7ad1f"
 metafile = true
