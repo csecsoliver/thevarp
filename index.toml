@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/altorigingui.pw.toml"
-hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+hash = "8550bebd9046d6b20070df1da33cceec0c9a2761fd8793dd066262fad95895ac"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/journey-pac.pw.toml"
-hash = "9647e45a7ca6353f2765235a48fd5649669df3e5d31396eb595372160f8e087e"
+hash = "31ae86d0327ce09506fbbd190dafb67865d3c98ef9c67c89da4a694c16ffb76f"
 metafile = true
 
 [[files]]
