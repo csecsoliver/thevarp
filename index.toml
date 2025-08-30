@@ -1199,6 +1199,11 @@ hash = "578cc44e5efaed68b60463703fc7f72674f0a7fc100410dd3278e1ac36f9f644"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "0126e37774a89e6089826219d27b65f4d11b48fe0b352c701b7e2371c590b08c"
+metafile = true
+
+[[files]]
 file = "mods/haeres.pw.toml"
 hash = "5ac7cc04104202e936146b91049cb6a87f48840e523b5617597f14e9bcb1b996"
 metafile = true
